@@ -9,8 +9,9 @@ DOMAIN:CLOUD COMPUTING
 DURATION:4 WEEKS
 
 OVERVIEW OF THE PROJECT
+![Screenshot (9)](https://github.com/user-attachments/assets/c408f9bf-6c89-4dd5-bfb0-e34794222af3)
 
-https://1drv.ms/i/c/f00ec190cbb8d497/EbTOLuM19uNBuht952vAHBcBWkOMMV3HWiutmepako0TXQ?e=afcW1p
+
 
 PROJECT:BUILDING A SERVERLESS APPLICATION WITH AWS LAMBDA
 
